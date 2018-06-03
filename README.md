@@ -10,7 +10,7 @@ Also, in status bar at bottom, it will show how many matched found or no matches
 
 Method used to search and highlight: (Upon Search button click)
 
-```
+```csharp
 
 private void bnt_Search_Click(object sender, RoutedEventArgs e)
 {
